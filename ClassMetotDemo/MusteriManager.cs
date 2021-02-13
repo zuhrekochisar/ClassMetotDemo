@@ -35,7 +35,7 @@ namespace ClassMetotDemo
         public void Delete(Musteri musteri)
         {
             Console.WriteLine("Silme İşlemi Tamamlandı", musteri.MusteriName, musteri.MusteriLastName);
-            Console.WriteLine("****************************************************");
+            Console.WriteLine("******************************************************");
         }
     }
 }
